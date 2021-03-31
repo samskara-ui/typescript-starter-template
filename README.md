@@ -17,10 +17,6 @@ Salient Features:
 - Semantic Release with Github Actions
 - Auto Deploys demo app on Github Pages with every release
 
-
-## Installation
- Checkout github packages for instructions
- 
 ## Instruction
 - Use this repo as a template for your project
 - Please replace each occurrence of `your-library-name` with your desired name.
