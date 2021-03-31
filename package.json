@@ -7,7 +7,6 @@
   "keywords": [],
   "scripts": {
     "clean": "rm -rf dist",
-    "serve:cli": "ng serve",
     "build:ci": "npm run bundle:libs && npm run build:app:prod",
     "bundle:libs": "rollup -c ./projects/your-library-name/rollup.config.ts",
     "build:app:dev": "webpack build --mode=development -c webpack.config.js",
