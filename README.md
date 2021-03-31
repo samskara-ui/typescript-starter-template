@@ -24,5 +24,5 @@ Salient Features:
 - Please replace each occurrence of `org` with your desired name.
 - Add your demo app contents
 - Test all scripts
-- Startup building!!! :)
+- Start building!!! :)
 
