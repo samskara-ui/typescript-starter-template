@@ -1,6 +1,6 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-# Typescript Startup Project
+# Typescript Starter Template Repository
 This repository contains a ready to use, Typescript based startup project. Use
 this to quickly start working on a new project. This would save your time in terms of setting up the project, and you can just focus on building your library.
 
