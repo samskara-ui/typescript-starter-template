@@ -10,15 +10,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "public": true,
-  "peerDependencies": {
-
-  },
-  "devDependencies": {
-
-  },
+  "peerDependencies": {},
+  "devDependencies": {},
   "release": {
     "branches": [
       "main"
